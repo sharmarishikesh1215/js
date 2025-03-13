@@ -1,7 +1,7 @@
 /*
 Primitive Datatype
 --------------------
-number => 2 to the power 55
+number => 2 to the power 4
 bigInt
 string
 null => stand alone used for var like temp as we can't assign 0 if there isn't any value
