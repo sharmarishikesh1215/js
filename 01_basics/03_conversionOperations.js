@@ -29,3 +29,9 @@ console.log("2" + 1 + 2)
 console.log(2 + 1 + "2")
 console.log(+true) // 1
 console.log(+"") // 0
+
+// Prefix and Post-fix operator
+
+let a = 10
+console.log(++a)
+console.log(a++)
